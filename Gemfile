@@ -72,3 +72,5 @@ group :test do
 end
 
 gem 'http'
+gem 'pry'
+gem 'rack-cors'
